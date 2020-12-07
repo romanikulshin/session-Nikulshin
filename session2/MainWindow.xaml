@@ -1,0 +1,30 @@
+﻿<Window x:Class="OOP_LB6_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_LB6_2"
+        mc:Ignorable="d"
+        Title="Плеер" Height="350" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Height="auto">
+            <MenuItem Header="File" Cursor="Hand">
+                <MenuItem Header="Open" Cursor="Hand" Click="MenuItem_Open_OnClick"/>
+                <MenuItem Header="Close" Cursor="Hand" Click="MenuItem_Close_OnClick"/>
+            </MenuItem>
+        </Menu>
+        <TextBlock Grid.Row="0" x:Name="SongName" HorizontalAlignment="Center"/>
+        <MediaElement Grid.Row="1" x:Name="VideoElement" Stretch="Fill"/>
+        <UniformGrid Grid.Row="2" Columns="4">
+            <Button x:Name="Pause" Content="Pause" Cursor="Hand" Click="Pause_Click"/>
+            <Button x:Name="Play" Content="Play" Cursor="Hand" Click="Play_Click"/>
+            <Button x:Name="Stop" Content="Stop" Cursor="Hand" Click="Stop_Click"/>
+            <Button x:Name="Record" Content="Record" Cursor="Hand" Click="Record_Click"/>
+        </UniformGrid>
+    </Grid>
+</Window>

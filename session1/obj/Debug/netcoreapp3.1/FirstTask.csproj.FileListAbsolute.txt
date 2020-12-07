@@ -1,0 +1,13 @@
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csprojAssemblyReference.cache
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfoInputs.cache
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfo.cs
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.CoreCompileInputs.cache
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.exe
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.deps.json
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.json
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.dev.json
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.dll
+D:\OOP_LB6-master\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.pdb
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.dll
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.pdb
+D:\OOP_LB6-master\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.genruntimeconfig.cache
